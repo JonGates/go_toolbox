@@ -24,6 +24,6 @@
 ```
  #### Mutual solution of PHP and GO
 ```javascript
-    Key,expiry,ckey_length must be consistent with PHP
+    Key,ckey_length must be consistent with PHP
 ```
 
