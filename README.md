@@ -3,11 +3,11 @@
 ## authcode
 ##### discuz authcode for golang ，and keep the data consistent。
 
-##### install 
+##### Install 
 ```javascript
     go get github.com/JonGates/go_toolbox
 ```
-##### used
+##### Usage
 ```javascript
     package main
     import (
